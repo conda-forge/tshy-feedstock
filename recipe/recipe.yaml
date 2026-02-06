@@ -1,5 +1,5 @@
 context:
-  version: "3.1.0"
+  version: "3.1.3"
 
 package:
   name: tshy
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/tshy/-/tshy-${{ version }}.tgz
-  sha256: f16a26aed6cde19923ab505bcc8d7ef417c089acfae0afcd7c146c0eb51e23aa
+  sha256: 3b38aeb4501f9cecaa8249dd4b761481f48b749bd5503a3d0f3751666c2c2268
 
 build:
   number: 0
